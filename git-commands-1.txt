@@ -12,3 +12,19 @@ Git diff <filename>											--> Check changes made to file with existing file
 git remote add origin <GitHub Repository URL>				--> Establish connection to the remote GitHub Repository
 git push origin master										--> Push to master branch
 =========================================================================
+
+
+Flow Diagram:
+
+
+
+						-------PrivateBranch1------------|
+						|                                |
+						|                                |
+						|                                |
+====================master========Release==============master=================master========release============master===========
+						 |																		|
+                         |                                                                      |
+                         |                                                                      |
+                         |                                                                      |
+						 -------PrivateBranch2---------------------------------------------------
