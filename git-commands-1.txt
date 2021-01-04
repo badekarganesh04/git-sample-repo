@@ -13,9 +13,24 @@ git remote add origin <GitHub Repository URL>				--> Establish connection to the
 git push origin master										--> Push to master branch
 =========================================================================
 
-
 Add some scenario's
 
 scenario 1
 scenario 2
 scenario 3
+
+
+Flow Diagram:
+
+
+
+						-------PrivateBranch1------------|
+						|                                |
+						|                                |
+						|                                |
+====================master========Release==============master=================master========release============master===========
+						 |																		|
+                         |                                                                      |
+                         |                                                                      |
+                         |                                                                      |
+						 -------PrivateBranch2---------------------------------------------------
