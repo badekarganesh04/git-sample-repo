@@ -12,3 +12,10 @@ Git diff <filename>											--> Check changes made to file with existing file
 git remote add origin <GitHub Repository URL>				--> Establish connection to the remote GitHub Repository
 git push origin master										--> Push to master branch
 =========================================================================
+
+
+Add some scenario's
+
+scenario 1
+scenario 2
+scenario 3
